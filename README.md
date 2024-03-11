@@ -10,7 +10,7 @@ This project conducts Exploratory Data Analysis (EDA) on a GDP dataset, examinin
   - [Analysing Specific Country](#analysing-specific-country)
   - [Calculating GDP Growth for All Countries](#calculating-gdp-growth-for-all-countries)
   - [Analyzing GDP Trends](#analyzing-gdp-trends)
-  - [Analysing GDP Growth](#analysing-gdp-growth)
+  - [Analyzing GDP Growth](#analyzing-gdp-growth)
 - [Conclusion](#conclusion)
 
 ## Introduction
@@ -51,7 +51,7 @@ The analysis includes visualizations and statistical summaries to explore variou
      - The function creates a line plot comparing the GDPs of the specified countries and saves it as an interactive HTML file. The `isopen` flag controls whether the plot is automatically opened in the web browser.
      - Examples of function usage are provided for comparing GDPs between India and USA, and a group of countries (Japan, India, USA, and China).
 
-### Analysing GDP Growth
+### Analyzing GDP Growth
    - Analyzed the GDP growth column ("GDP") for all countries.
    - Created a line plot to visualize the GDP growth trends (`'GDP Growth.html'`).
    - Optionally, filtered the data to include only countries with complete data for all years (1960-2016) for a more focused analysis (`'GDP Growth.html'`).
