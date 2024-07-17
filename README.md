@@ -1,4 +1,4 @@
-# Exploratory Data Analysis (EDA) on GDP Dataset
+# Global GDP Insights: Analyzing Economic Trends
 
 This project conducts Exploratory Data Analysis (EDA) on a GDP dataset, examining GDP trends, growth rates, and comparisons between different countries. The analysis includes visualization of GDP values, growth rates, and comparative analyses to derive insights into global economic dynamics.
 
